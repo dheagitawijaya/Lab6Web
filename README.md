@@ -28,19 +28,19 @@ Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 ![Gambar 1](screnshoot/ss7.png)
 
 9. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
-![Gambar 1](screnshoot/ss1.png)
-
-10. Menmbahkan widget link pada sebelah kanan card 1.
 ![Gambar 1](screnshoot/ss8.png)
 
-11. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
+10. Menmbahkan widget link pada sebelah kanan card 1.
 ![Gambar 1](screnshoot/ss9.png)
 
-12. Menambah element lain atau card 2 seperti pada gambar dibawah ini.
+11. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
 ![Gambar 1](screnshoot/ss10.png)
 
-13. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
+12. Menambah element lain atau card 2 seperti pada gambar dibawah ini.
 ![Gambar 1](screnshoot/ss11.png)
+
+13. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
+![Gambar 1](screnshoot/ss12.png)
 
 14. Menambaahkn footer.
 ![Gambar 1](screnshoot/ss12.png)
