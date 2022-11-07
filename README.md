@@ -43,7 +43,7 @@ Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 ![Gambar 1](screnshoot/ss12.png)
 
 14. Menambaahkn footer.
-![Gambar 1](screnshoot/ss12.png)
+![Gambar 1](screnshoot/ss11.png)
 
 15. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
 ![Gambar 1](screnshoot/ss13.png)
